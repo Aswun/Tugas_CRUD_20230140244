@@ -190,18 +190,15 @@ Frontend diimplementasikan pada file `index.html` dan beroperasi sepenuhnya meng
 
 ### 1. Antarmuka Web (Frontend - Form & Tabel)
 
-*(Ganti URL di bawah dengan link screenshot tampilan webmu)*
-<img width="1000" alt="Screenshot Tampilan Web" src="URL_GAMBAR_WEB_DISINI" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/82f44114-6a0d-482c-9aec-c6d59e4ddcb3" />
 
 ### 2. Antarmuka Web (Frontend - Notifikasi Ajax Sukses/Error)
 
-*(Ganti URL di bawah dengan link screenshot saat muncul notifikasi alert hijau/merah)*
-<img width="1000" alt="Screenshot Notifikasi" src="URL_GAMBAR_ALERT_DISINI" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3471204a-ae33-40fc-82c9-6c5d329b5ad3" />
 
 ### 3. Struktur Database (MySQL)
 
-*(Ganti URL di bawah dengan link screenshot tabel `ktp` pada phpMyAdmin / DBeaver / Datagrip)*
-<img width="1000" alt="Screenshot Database" src="URL_GAMBAR_DATABASE_DISINI" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3d7e48e4-1339-4d35-8451-d3df086a1a8b" />
 
 ```
 
