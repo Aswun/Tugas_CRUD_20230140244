@@ -6,7 +6,7 @@ import com.deploy.praktikum2.model.dto.KtpDto;
 import com.deploy.praktikum2.model.entity.Ktp;
 import com.deploy.praktikum2.repository.KtpRepository;
 import com.deploy.praktikum2.service.KtpService;
-import com.deploy.praktikum2.util.ValidationUtil;
+import com.deploy.praktikum2.util.validationUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,7 +20,7 @@ public class KtpServiceImpl implements KtpService {
     private KtpRepository ktpRepository;
 
     @Autowired
-    private ValidationUtil validationUtil;
+    private validationUtil validationUtil;
 
     @Override
     public KtpDto AddKtp(KtpAddRequest request) {
